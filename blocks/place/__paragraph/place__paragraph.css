@@ -6,6 +6,7 @@
     line-height: 163%;
     margin: 0;
     padding: 0 16px;
+    font-family: "Inter", Arial, sans-serif;
 }
 
 @media (min-width: 767px) {
@@ -18,7 +19,6 @@
 @media (min-width: 1023px) {
     .place__paragraph {
         max-width: 456px;
-        padding: 0;
         font-size: 18px;
     }
 }
@@ -26,7 +26,5 @@
 @media (min-width: 1279px) {
     .place__paragraph {
         max-width: 484px;
-        padding: 0;
-        font-size: 18px;
     }
 }

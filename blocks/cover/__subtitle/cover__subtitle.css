@@ -6,6 +6,7 @@
     font-size: 14px;
     line-height: 16px;
     text-align: center;
+    font-family: "Inter", Arial, sans-serif;
 }
 
 @media (min-width: 767px) {
@@ -16,18 +17,3 @@
    }
 }
 
-@media (min-width: 1023px) {
-   .cover__subtitle {
-       min-width: 360px;
-       font-size: 18px;
-       line-height: 22px;
-   }
-}
-
-@media (min-width: 1279px) {
-   .cover__subtitle {
-       min-width: 360px;
-       font-size: 18px;
-       line-height: 22px;
-   }
-}

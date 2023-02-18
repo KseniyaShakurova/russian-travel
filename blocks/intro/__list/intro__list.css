@@ -16,17 +16,7 @@
 @media (min-width: 1023px) {
     .intro__list {
         max-width: 690px;
-        font-size: 12px;
-        line-height: 18px;
         margin: 0;
     }
 }
 
-@media (min-width: 1279px) {
-    .intro__list {
-        max-width: 690px;
-        font-size: 12px;
-        line-height: 18px;
-        margin: 0;
-    }
-}

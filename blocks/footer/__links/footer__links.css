@@ -15,16 +15,3 @@
     }
 }
 
-@media (min-width: 1023px) {
-    .footer__links {
-        flex-direction: row;
-        gap: 18px;
-    }
-}
-
-@media (min-width: 1279px) {
-    .footer__links {
-        flex-direction: row;
-        gap: 18px;
-    }
-}

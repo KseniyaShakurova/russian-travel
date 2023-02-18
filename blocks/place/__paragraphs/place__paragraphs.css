@@ -17,8 +17,3 @@
     }
 }
 
-@media (min-width: 1279px) {
-    .place__paragraphs {
-        gap: 26px;
-    }
-}

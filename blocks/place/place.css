@@ -19,8 +19,3 @@
     }
 }
 
-@media (min-width: 1279px) {
-    .place {
-        gap: 80px;
-    }
-}

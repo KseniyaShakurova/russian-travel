@@ -17,15 +17,11 @@
 @media (min-width: 1023px) {
     .cover {
         max-width: 1024px;
-        padding-top: 92px;
-        margin: 0;
     }
 }
 
 @media (min-width: 1279px) {
     .cover {
         max-width: 1184px;
-        padding-top: 92px;
-        margin: 0;
     }
 }

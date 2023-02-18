@@ -6,6 +6,7 @@
     line-height: 35px;
     text-align: center;
     margin: 0;
+    font-family: "Inter", Arial, sans-serif;
 }
 
 @media (min-width: 767px) {
@@ -16,18 +17,3 @@
    }
 }
 
-@media (min-width: 1023px) {
-   .cover__title {
-       min-width: 560px;
-       font-size: 72px;
-       line-height: 76px;
-   }
-}
-
-@media (min-width: 1279px) {
-   .cover__title {
-       min-width: 560px;
-       font-size: 72px;
-       line-height: 76px;
-   }
-}

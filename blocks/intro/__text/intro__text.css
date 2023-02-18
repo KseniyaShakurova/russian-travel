@@ -6,6 +6,7 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 163%;
+    font-family: "Inter", Arial, sans-serif;
 }
 
 @media (min-width: 767px) {
@@ -18,18 +19,6 @@
 
 @media (min-width: 1023px) {
     .intro__text {
-        max-width: 690px;
-        font-size: 16px;
-        line-height: 163%;
-        margin: 0;
-    }
-}
-
-@media (min-width: 1279px) {
-    .intro__text {
-        max-width: 690px;
-        font-size: 16px;
-        line-height: 163%;
         margin: 0;
     }
 }
