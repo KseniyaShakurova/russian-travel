@@ -1,0 +1,29 @@
+.place__website {
+    max-width: 288px;
+    padding: 0 16px;
+    grid-area: website;
+}
+
+@media (min-width: 767px) {
+    .place__website {
+        min-width: 340px;
+        padding: 0;
+        align-self: flex-end;
+    }
+}
+
+@media (min-width: 1023px) {
+    .place__website {
+        min-width: 440px;
+        padding: 0;
+        align-self: flex-end;
+    }
+}
+
+@media (min-width: 1279px) {
+    .place__website {
+        min-width: 460px;
+        padding: 0;
+        align-self: flex-end;
+    }
+}

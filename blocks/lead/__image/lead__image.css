@@ -1,0 +1,22 @@
+.lead__image {
+    width: 100%;
+    padding: 40px 0 0 0;
+}
+
+@media (min-width: 767px) {
+    .lead__image {
+        padding-top: 56px;
+    }
+}
+
+@media (min-width: 1023px) {
+    .lead__image {
+        padding-top: 56px;
+    }
+}
+
+@media (min-width: 1279px) {
+    .lead__image {
+        padding-top: 64px;
+    }
+}

@@ -1,0 +1,24 @@
+.place__paragraphs {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    grid-area: paragraphs;
+}
+
+@media (min-width: 767px) {
+    .place__paragraphs {
+        gap: 25px;
+    }
+}
+
+@media (min-width: 1023px) {
+    .place__paragraphs {
+        gap: 26px;
+    }
+}
+
+@media (min-width: 1279px) {
+    .place__paragraphs {
+        gap: 26px;
+    }
+}
