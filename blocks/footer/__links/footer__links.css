@@ -10,7 +10,6 @@
 @media (min-width: 767px) {
     .footer__links {
         flex-direction: row;
-        min-height: 18px;
         gap: 18px;
     }
 }

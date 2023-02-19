@@ -11,17 +11,21 @@
         margin: 0;
         width: 100%;
         padding-top: 90px;
+        min-height: 480px;
     }
 }
 
 @media (min-width: 1023px) {
     .cover {
         max-width: 1024px;
+        min-height: 640px;
     }
 }
 
 @media (min-width: 1279px) {
     .cover {
         max-width: 1184px;
+        min-height: 740px;
+        margin: 0 auto;
     }
 }

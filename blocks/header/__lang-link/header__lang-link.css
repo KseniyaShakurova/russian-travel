@@ -7,7 +7,12 @@
     line-height: 20px;
     text-align: right;
     font-family: "Inter", Arial, sans-serif;
+    transition: opacity 1s ease; 
 }
+
+.header__link:hover {
+    opacity: 0.5;
+ }
 
 @media (min-width: 767px) {
     .header__lang-link {

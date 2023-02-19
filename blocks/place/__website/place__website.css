@@ -2,6 +2,9 @@
     max-width: 288px;
     padding: 0 16px;
     grid-area: website;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
 }
 
 @media (min-width: 767px) {

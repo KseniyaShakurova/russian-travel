@@ -17,3 +17,10 @@
    }
 }
 
+@media (min-width: 1023px) {
+    .cover__subtitle {
+        margin-top: 32px;
+    }
+}
+
+

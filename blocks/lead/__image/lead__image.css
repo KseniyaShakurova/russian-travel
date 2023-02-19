@@ -9,12 +9,6 @@
     }
 }
 
-@media (min-width: 1023px) {
-    .lead__image {
-        padding-top: 56px;
-    }
-}
-
 @media (min-width: 1279px) {
     .lead__image {
         padding-top: 64px;
