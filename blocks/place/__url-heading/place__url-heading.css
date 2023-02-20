@@ -13,7 +13,7 @@
 
 @media (min-width: 1023px) {
     .place__url-heading {
-        line-height: 170%;
+        line-height: 12px;
     }
 }
 
